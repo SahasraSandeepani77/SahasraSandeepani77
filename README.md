@@ -84,9 +84,9 @@ I'm a QA professional with **2.3 years of experience** in software quality assur
 
 ## 🌱 Currently Learning
 
-- 🔄 CI/CD pipelines and **Jenkins** (theory)
+- 🔄 CI/CD pipelines and **Jenkins** 
 - ⚙️ Growing my test automation skills with Playwright
-- 🌿 Git and GitHub workflows (branching, pull requests, merging)
+- 🌿 Git and GitHub workflows 
 
 ## 💼 Experience
 
@@ -106,13 +106,6 @@ Individual research projects, abstracts published:
 
 - *A Prototype System for Optimizing Grocery Lists of Consumers in the Colombo District in Sri Lanka*: International Conference of Advanced Computing and Information Technology 2026, NIBM
 - *Queuing Theory-Based Analysis of the Service Flow in a Higher Educational Institute Cafeteria in Colombo*: International Research Symposium on Management, Rajarata University
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
 
 ## 📫 Let's Connect
 
